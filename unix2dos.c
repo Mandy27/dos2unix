@@ -44,7 +44,6 @@
  *     Rewritten from scratch.
  *  == 2.2 == 1995.03.30 == Benjamin Lin (blin@socs.uts.edu.au)
  *     Conversion from SunOS charset implemented.
- *
  *  See ChangeLog.txt for complete version history.
  */
 
