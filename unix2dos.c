@@ -52,7 +52,6 @@
 /* #define DEBUG 1 */
 #define __UNIX2DOS_C
 
-
 #include "common.h"
 #include "unix2dos.h"
 #ifdef D2U_UNICODE
