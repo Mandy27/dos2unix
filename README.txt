@@ -108,7 +108,6 @@ TRANSLATORS
         Spanish               Enrique Lazcorreta Puigmartí Version 6.0.6 - 7.2.1
         Ukrainian             Yuri Chornoivan              Version 6.0.5 - 7.2.1
 
-
 ACKNOWLEDGEMENTS
 
         Rugxulo               query_con_codepage(), code page detection in DOS.
