@@ -167,3 +167,4 @@ CONTACT INFORMATION
         If you need support you can email me directly or make a ticket on the
         SourceForge project page. Help in any form is appreciated. A problem
         report, a fix, or just a remark.
+
